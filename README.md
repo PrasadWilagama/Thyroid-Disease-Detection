@@ -1,7 +1,9 @@
 # Thyroid-Disease-Detection
 Thyroid disease is a common cause of medical diagnosis and prediction, with an onset that is difficult to forecast in medical research. The thyroid gland is one of our body's most vital organs. Thyroid hormone releases are responsible for metabolic regulation. Hyperthyroidism and hypothyroidism are one of the two common diseases of the thyroid that releases thyroid hormones in regulating the rate of body's metabolism.
 
-Problem Statement:
+![download](https://user-images.githubusercontent.com/85976286/210487326-14c2221a-430d-42e0-93e6-4caf039ce19d.jpg)
+
+# Problem Statement:
 The main goal is to predict the estimated risk on a patient's chance of obtaining thyroid disease or not.
 
 # Tools Used:
