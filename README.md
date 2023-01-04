@@ -10,7 +10,8 @@ The main goal is to predict the estimated risk on a patient's chance of obtainin
 ![141608807-3de73501-4b21-4493-a911-463877a04ea2](https://user-images.githubusercontent.com/85976286/210485272-529c0f99-f0ce-4d1e-be63-dd04a67626f7.jpg)
 
 # Deployment:
-![141607984-309840bc-a442-46af-bb28-83172701a0b6](https://user-images.githubusercontent.com/85976286/210486847-69d5d484-0a00-42d8-8e62-0eab2c65e1ee.png)
+![download](https://user-images.githubusercontent.com/85976286/210488164-fe607143-f53c-4ee2-8069-3ff006ebd599.png)
+
 
 The solution is deployed on Amazon Web Services (AWS) on EC2 Instance using Linux environment.
 
